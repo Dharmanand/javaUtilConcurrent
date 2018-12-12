@@ -1,6 +1,6 @@
 package com.kd.concurrent.chm;
 /*
- * @auther Kumar 
+ * @author Kumar 
  * 
  * ConcurrentHashMap has three extra methods wrt HashMap.
  *		1. putIfAbsent(key, value);
