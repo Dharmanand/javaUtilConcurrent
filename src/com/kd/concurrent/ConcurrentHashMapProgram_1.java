@@ -6,7 +6,8 @@ package com.kd.concurrent;
  *		1. putIfAbsent(key, value);
  *		2. remove(key, value);
  *		3. replace(key, oldValue, newValue);
- * 
+ * Output: 
+ * 		{101=A, 102=E, 103=C}
  * 
  */
 import java.util.concurrent.ConcurrentHashMap;
