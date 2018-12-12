@@ -9,7 +9,7 @@ import java.util.ArrayList;
  *         Exception in thread "main"
  *         java.util.ConcurrentModificationException...
  *
- *         Definition: If one thread iterating/modifying an object and other
+ *         Definition: (In tradition Collection)If one thread iterating/modifying an object and other
  *         thread is trying to modify same abject then
  *         ConcurrentModificationException occurs.
  *
